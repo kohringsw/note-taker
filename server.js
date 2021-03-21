@@ -1,4 +1,4 @@
-const apiRoutes = require("./routes/apiRoutes");
+const apiRoutes = require("./routes/apiRoutes/noteRoutes");
 const htmlRoutes = require("./routes/htmlRoutes");
 
 const express = require("express");
